@@ -738,5 +738,13 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "geoguessr_sft": {
+    "file_name": "geoguessr_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
   }
 }
